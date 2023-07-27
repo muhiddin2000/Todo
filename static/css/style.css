@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+a{
+    text-decoration: none;
+}
+input{
+    margin-top: 20px;
+    width: 400px;
+    border-radius: 15px;
+    text-align: center;
+    height: 45px;
+    display: block;
+}
+::placeholder{
+    color: rgb(19, 138, 35);
+}
+.btn{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.table{
+    margin-top: 10px;
+    border-radius: 15px;
+}
+.delete{
+    color: crimson;
+}
+.update{
+    color: rgb(35, 176, 231);
+}
+.finish{
+    color: rgb(37, 220, 37);
+}
